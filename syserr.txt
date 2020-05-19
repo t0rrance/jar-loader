@@ -1,0 +1,2 @@
+mar 01, 2019 9:09:42 PM sample.jarloader.log.Log syserr
+SEVERE: Not found class [Main]
